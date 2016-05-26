@@ -1,2 +1,0 @@
-http://codereview.stackexchange.com/questions/28248/implement-a-function-that-prints-all-possible-combinations-of-the-characters-in
-http://stackoverflow.com/questions/756055/listing-all-permutations-of-a-string-integer
