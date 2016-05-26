@@ -1,0 +1,4 @@
+https://github.com/shakuu/Homework/tree/master/%5BC%23%5D-02-CSharp2/01-Arrays
+
+
+https://github.com/TelerikAcademy/CSharp-Part-2/tree/master/Topics/01.%20Arrays/homework

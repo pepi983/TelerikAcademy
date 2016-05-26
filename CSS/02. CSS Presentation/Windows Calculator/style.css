@@ -1,0 +1,178 @@
+body {
+    font-size: 12px;
+    color: #26439A
+}
+
+* {
+    overflow:hidden
+}
+
+#calculator {
+    background-image: url(images/background.JPG);
+    width: 451px;
+    height: 430px;
+    border-radius: 10px;
+}
+
+div div {
+    border: 1px solid grey;
+}
+
+.body {
+    margin: 2px 9px 9px 9px;
+    width: 433px;
+    height: 384px;
+}
+
+.holder {
+    width: 436px;
+    height: 376px;
+}
+
+div div div div {
+    margin: 9px
+}
+
+#result {
+    width: 405px;
+    height: 56px;
+    padding-right: 10px
+}
+
+input[type=text] {
+    width: 402px;
+    height: 56px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+    border: 0 none;
+}
+
+#result, input[type=text] {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
+background: #f0f9ff; /* Old browsers */
+background: -moz-linear-gradient(top,  #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+
+}
+
+#binary {
+    height: 55px;
+    width: 411px;
+    margin: 0px 15px;
+}
+
+#binary tr:nth-of-type(2n) {
+    color: grey
+}
+
+.system {
+    float: left;
+    width: 76px;
+    height: 86px;
+    margin-top: 0;
+    padding-top: 3px
+}
+
+#buttons {
+    border: none;
+    float: right;
+    margin: 0 9px 9px 0;
+}
+
+input[type=button] {
+    width: 36px;
+    height: 26px;
+    padding: 0;
+    border: 1px solid grey;
+}
+
+.disabled {
+    background-color: #D8EFFE; 
+}
+
+.btn {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0f9ff+0,cbebff+47,a1dbff+100;Blue+3D+%2313 */
+background: #f0f9ff; /* Old browsers */
+background: -moz-linear-gradient(top,  #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f9ff', endColorstr='#a1dbff',GradientType=0 ); /* IE6-9 */
+}
+
+.number {
+    background-color: #ADDDFC
+}
+
+#equal {
+    height: 56px;
+}
+
+#zero {
+    width: 76px;
+    background-color: #ADDDFC
+}
+
+input[type=button]:hover {
+    background-color: orange;
+}
+
+.data-type {
+    clear: left;
+    float: left;
+    width: 76px;
+    height: 86px;
+    margin-top: 0;
+    padding-top: 3px
+}
+
+#calculator-icon {
+    margin: 9px 0 0 9px;
+}
+
+h1 {
+    display: inline-block;
+    margin-bottom: 1px;
+    font-size: 16px;
+    font-weight: unset
+}
+
+.main-buttons {
+    float:right;
+}
+
+#close {
+    margin-right: 9px;
+}
+
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 9px
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+a:hover {
+    background-color: skyblue;   
+}
+
+li::first-letter {
+    text-decoration: underline
+}
+
+
+

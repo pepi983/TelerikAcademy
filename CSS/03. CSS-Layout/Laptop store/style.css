@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#container {
+    position: absolute;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 1070px;
+    height: 779px;
+    padding-top: 10px
+}
+
+h1 {
+    display: inline;
+    padding: 200px
+}
+
+a {
+    color: DeepSkyBlue;
+    font-weight: bold;
+    text-align: center;
+    margin: 3px;
+    font-size: 30px
+}
+
+hr {
+    margin: 8px 35px 15px;
+    height: 2px;
+    background-color: black
+}
+
+#models {
+    float: left;
+    margin: 0 17px;
+    padding: 10px;
+    width: 691px;
+    height: 673px;
+    border: 2px solid black
+}
+
+fieldset {
+    float: left;
+    margin: 3px 7px;
+    width: 300px;
+    height: 196px;
+    border: 2px solid black
+}
+
+legend
+{
+    font-size: 22px;
+    text-align: center
+}
+
+img {
+    float:left
+}
+
+ fieldset span {
+    float: left;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 5px
+}
+
+.price {
+    clear: both;
+    float: left;
+    margin: 30px 50px 0 40px
+}
+
+#range {
+    float: left;
+    margin-top: 120px
+}
+
+ label {
+    clear: unset;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px    
+}
+
+.rangeValue {
+    clear: right;
+    float: right;
+    margin-left: 30px
+}
+
+input[type=range] {
+    display: block;
+    clear: right;
+    width: 273px;
+    margin-left: 10px;
+    margin-bottom: 25px
+}

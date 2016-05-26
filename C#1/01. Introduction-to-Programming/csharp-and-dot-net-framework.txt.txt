@@ -1,0 +1,5 @@
+Difference between C# and .NET
+There is a difference between these two. The primary one is that the one includes the other. C# is a part of the .NET framework. 
+The bigger picture here is the .NET framework. It’s a class library including user interfaces, network communications, database connectivity,
+ cryptography, numeral algorithms and many other. When you’re writing code with C#, you’re most probably using .NET. So that means that
+ as much as they differ, they are not very functional separately.

@@ -1,0 +1,52 @@
+body {
+    background-color: #595959;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+   color: #888888
+}
+
+#name:before {
+    content: url('disc.png');
+    padding-right: 5px
+}
+
+#support {
+    color: red;
+    font-weight: bold
+}
+
+.publicinfo {
+    color: #f9ee98
+}
+
+.activity {
+    color: #888888
+}
+#status {
+    color: orange
+}
+
+dt {
+    float: left;
+    width: 150px;
+    color: white;
+    font-style: italic;
+    padding: 5px;
+}
+
+dd {
+    margin-left: 160px;
+    padding: 5px;
+}
+
+dd p {
+    text-align: left;
+}
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+1.    SQL
+
+It’s no surprise SQL (pronounced ‘sequel’) tops the job list since it can be found far and wide in various flavors.
+ Database technologies such as MySQL, PostgreSQL and Microsoft SQL Server power big businesses, small businesses, 
+hospitals, banks, universities. Indeed, just about every computer and person with access to technology eventually
+ touches something SQL. For instance, all Android phones and iPhones have access to a SQL database called SQLite 
+and many mobile apps developed Google, Skype and DropBox use it directly.
+
+2.    Java
+
+The tech community recently celebrated the 20th anniversary of Java. It’s one of the most widely adopted programming 
+languages, used by some 9 million developers and running on 7 billion devices worldwide. It’s also the programming language
+ used to develop all native Android apps. Java’s popularity with developers is due to the fact that the language is grounded 
+in readability and simplicity. Java has staying power since it has long-term compatibility, which makes sure older applications 
+continue to work now into the future. It’s not going anywhere anytime soon and is used to power company websites like LinkedIn.com, 
+Netflix.com and Amazon.com.
+
+3.    JavaScript
+
+JavaScript – not to be confused with Java – is another one of the world’s most popular and powerful programming languages, 
+and is used to spice up web pages by making them interactive. For example, JavaScript can be used to add effects to web pages,
+ display pop-up messages or to create games with basic functionality. It’s also worth noting that JavaScript is the scripting 
+language of the World Wide Web and is built right into all major web browsers including Internet Explorer, FireFox and Safari.
+ Almost every website incorporates some element of JavaScript to add to the user experience, adding to the demand for JavaScript
+ developers. In recent years JavaScript has also gained use as the foundation of Node.js, a server technology that among other 
+things enables real-time communication.  
+
+4.    C#
+
+Dating from 2000, C# (pronounced C-sharp) is a relatively new programming language designed by Microsoft for a wide range of enterprise
+ applications that run on the .NET Framework. An evolution of C and  C++, the C# language is simple, modern, type safe and object oriented.
+
+5.    C++
+
+C++ (pronounced C-plus-plus) is a general purpose object-oriented programming language based on the earlier ‘C’ language. Developed
+ by Bjarne Stroustrup at Bell Labs, C++ was first released in 1983. Stroustrup keeps an extensive list of applications written in C++.
+ The list includes Adobe and Microsoft applications, MongoDB databases, large portions of Mac OS/X and is the best language to learn for
+ performance-critical applications such as “twitch” game development or audio/video processing.
