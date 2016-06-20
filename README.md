@@ -1,2 +1,2 @@
 # TelerikAcademy
-All homeworks
+Telerik Academy 2016/17 Homeworks.
